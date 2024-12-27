@@ -1,0 +1,16 @@
+.logo{
+    width: 125px;
+    height: 125px;
+}
+
+.card-size{
+    max-width: 80%;
+}
+
+.card-form{
+    width: 60%;
+}
+
+.button-width{
+    width: 80%;
+}
